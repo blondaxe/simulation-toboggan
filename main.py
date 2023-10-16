@@ -20,7 +20,6 @@ for i in range(1,nbSegment + 1):
 
     t = t + (numer / denom)
 
-
     # Determiner la nouvelle vitesse intitiale
     Vinit = sqrt(2*(29.43417 - 9.81 * Yk1))   
     
